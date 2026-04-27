@@ -16,5 +16,5 @@ const C = {
 };
 const STRIPE_PAYMENT_LINK = "https://buy.stripe.com/bJeeVcfV300rfXv9aNabK02";
 function unlock() {
-  window.location.href = STRIPE_PAYMENT_LINK;
+  window.open(STRIPE_PAYMENT_LINK, "_blank");
 }
