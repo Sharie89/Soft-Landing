@@ -14,4 +14,4 @@ const C = {
   soft:     "#f2e8df",
   border:   "#ecddd3",
 };
-
+const STRIPE_PAYMENT_LINK = "https://buy.stripe.com/bJeeVcfV300rfXv9aNabK02";
